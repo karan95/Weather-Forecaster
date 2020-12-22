@@ -41,7 +41,7 @@ $ npm start
 ##### Response 1:
 ```
 Weather forecast for Boston MA, 02210:
-  Current 12/21/2020, 11 PM 36 F, wind 10.3 mph W,        Mostly Cloudy
+  Current 12/21/2020, 11 PM 36 F, wind 10.3 mph W,       Mostly Cloudy
                                     precipitation: 0,    humidity 73%
                                     windchill 28.5 F,    pressure 29.64 in
   Tonight, 12/21:           30 F, wind 8 mph W,          Patchy Fog then Mostly Cloudy
