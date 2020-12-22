@@ -28,7 +28,7 @@ $ npm start
 ---
 - GET:: http://localhost:3030/weather/:zipcode
     - Params: `zipcode` (Any valid US zip code, currently supports MA zipcodes only) @Required
-    - Query: `days` number of days, example:7, Default: 3 @optional
+    - Query: `days` number of days, example:7, Default: 3, Supports days=7 only @optional
     - Accept: "text/plain", "application/json"(Default) @optional
 
 #### Sample API Examples:
